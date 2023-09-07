@@ -20,7 +20,7 @@ SHA256: __f8025a983743db235a7c34543a2bf9a71f85b74c108d1e6c7ab53f62bb23d283__
 
 ### 下载
 
-下载链接：[]()
+下载链接：[点击下载](https://github.com/f3lze3/CloseWindowsAutoUpdate/releases/download/v0.1/close_windows10-11_update.exe)
 
 ---
 
